@@ -35,4 +35,4 @@ Through extensive simulations, our model demonstrated its ability to adapt to dy
 
 ## 📂 Repository Files
 
-* **[ResearchPaper.pdf](ResearchPaper.pdf):** The full academic paper detailing the system model, methodology, and results.
+* **[ResearchPaper.pdf](ReseachPaper.pdf):** The full academic paper detailing the system model, methodology, and results.

@@ -2,8 +2,6 @@
 
 This repository contains the research paper and associated materials for the project titled: "Machine Learning-Based Resource Allocation and Offloading Strategies for Next-Generation Satellite-Terrestrial and IRS-Assisted Networks".
 
-This research was conducted in collaboration with the EEE Department at BITS Pilani, Goa Campus. The project proposes a Deep Reinforcement Learning (DRL) framework to optimize resource allocation and task offloading in a complex, hybrid wireless network.
-
 ---
 
 ## 📄 Project Summary
@@ -37,4 +35,4 @@ Through extensive simulations, our model demonstrated its ability to adapt to dy
 
 ## 📂 Repository Files
 
-* **[ResearchPaperBITSGOA.pdf](ResearchPaperBITSGOA.pdf):** The full academic paper detailing the system model, methodology, and results.
+* **[ResearchPaper.pdf](ResearchPaper.pdf):** The full academic paper detailing the system model, methodology, and results.
